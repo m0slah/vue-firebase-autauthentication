@@ -1,5 +1,5 @@
 <template>
     <main class="about">
-        This is About Page
+         About
     </main>
 </template>
